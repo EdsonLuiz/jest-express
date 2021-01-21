@@ -1,0 +1,27 @@
+{
+  "name": "jest-express",
+  "version": "1.0.0",
+  "description": "Practicing tests with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdsonLuiz/jest-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdsonLuiz/jest-express/issues"
+  },
+  "homepage": "https://github.com/EdsonLuiz/jest-express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
