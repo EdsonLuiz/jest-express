@@ -7,7 +7,9 @@
     "test": "jest --watchAll"
   },
   "jest": {
-    "testPathIgnorePatterns": ["node_modules"]
+    "testPathIgnorePatterns": [
+      "node_modules"
+    ]
   },
   "repository": {
     "type": "git",
@@ -22,6 +24,7 @@
   "homepage": "https://github.com/EdsonLuiz/jest-express#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mongoose": "^5.11.13"
   },
